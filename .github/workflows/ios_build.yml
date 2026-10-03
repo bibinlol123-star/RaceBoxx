@@ -1,4 +1,4 @@
-name: Build RaceBoox iOS
+name: Build RaceBooxx iOS
 
 on:
   workflow_dispatch:
